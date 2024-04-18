@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<!--
-**Abhishek-KrS/Abhishek-KrS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Uploading 20210428185935_IMG_4399(1).JPG…]()
 
-Here are some ideas to get you started:
+**Abhishek-KrS/Abhishek-KrS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+
+Here are some ideas to get started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
