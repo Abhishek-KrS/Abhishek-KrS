@@ -3,9 +3,9 @@
 
 <div style="position:relative;">
   <img src="https://github.com/Abhishek-KrS/Abhishek-KrS/assets/38554267/87757c4a-f22f-4897-8641-3b0514be2fd2" alt="Image" style="width:100%;">
-  <div style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%);">
-    <h1>Pic taken at IIT Hyderabad on Wed 28 Apr 18:59:28</h1>
-    <p>*Caption: Infront of the Bhaskara hostel wearing a CODE t-shirt*</p>
+  <div style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); text-align: center;">
+    <h1>Caption: Infront of the Bhaskara hostel wearing a CODE t-shirt</h1>
+    <p>Pic taken at IIT Hyderabad on Wed 28 Apr 18:59:28</p>
   </div>
 </div>
 
